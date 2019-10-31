@@ -140,6 +140,10 @@ nav ul li a:hover {
     transition: .4s ease;
 }
 
+.section-one-one img:hover {
+    transform: rotate(-20deg);
+}
+
 .section-one-one h2 {
 	text-align: center;
     color: #ffffff;
